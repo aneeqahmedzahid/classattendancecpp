@@ -1,0 +1,1 @@
+This attendance software is a C++ based software designed to automate and streamline the attendance tracking process in a classroom setting. This report provides a detailed overview of the system, its proposed methodology, code explanation, and potential future enhancements
